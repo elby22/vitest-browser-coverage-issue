@@ -1,0 +1,1 @@
+# vitest-browser-coverage-issue
